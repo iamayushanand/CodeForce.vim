@@ -36,6 +36,10 @@ Replace "YourHandle" in checker.py with your cf handle.
 |python 2.7.12     |            7|
 |python 3.5.2      |           31|
 
+#Dependencies
+
+You need to have python with beautiful soup and requests library installed.
+
 #Issues 
 
 If you find any problems or bug with my plugin please email me at iamayushanand@gmail.com 
