@@ -68,7 +68,7 @@ endfunc
 "}}}
 
 function! CFLastVerdict()
-	pyfile ~/programming/src/Fun/checker.py
+	pyfile ~/path/to/checker.py
 endfunc
 
 command! -nargs=1  CodeForceSubmit  call  CFSubmit(string(<q-args>))
