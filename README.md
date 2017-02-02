@@ -41,6 +41,18 @@ Replace "YourHandle" in checker.py with your cf handle.
 
 You need to have python with beautiful soup and requests library installed.
 
+#Usage 
+
+To submit a code for a specific cf problem use 
+
+`:CodeForceSubmit XXXA`
+
+where XXXA is problem code.
+
+To see your last verdict use
+
+`:LastVerdict`
+
 #Issues 
 
 If you find any problems or bug with my plugin please email me at iamayushanand@gmail.com 
