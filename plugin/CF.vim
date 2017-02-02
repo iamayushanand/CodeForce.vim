@@ -4,10 +4,6 @@ import vim
 prob = vim.eval('a:probCode')
 code = vim.eval("expand('%:p')")
 import requests
-import mechanize
-import urllib
-import urllib2
-import webbrowser
 from BeautifulSoup import BeautifulSoup as bs
 import sys
 import os

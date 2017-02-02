@@ -6,8 +6,9 @@ This plugin helps you in submitting your solutions to codeforces while practicin
 
 To install this plugin just run the following commands on your terminal:
 
-cd ~/.vim/bundle
-git clone https://github.com/iamayushanand/CodeForce.vim.git
+`cd ~/.vim/bundle`
+
+`git clone https://github.com/iamayushanand/CodeForce.vim.git`
 
 #Configuration
 
