@@ -1,4 +1,4 @@
-##Codeforces Submitter Plugin Vim
+# Codeforces Submitter Plugin Vim
 
 This plugin helps you in submitting your solutions to codeforces while practicing.
 
@@ -10,7 +10,7 @@ To install this plugin just run the following commands on your terminal:
 
 `git clone https://github.com/iamayushanand/CodeForce.vim.git`
 
-#Configuration
+## Configuration
 
 You need to configure CF.vim present in the plugin/ dir based on your codeforces account settings etc.
 
@@ -21,7 +21,7 @@ Replace the location given in line 59 with your preferred one(That snippet is fo
 
 Replace "YourHandle" in checker.py with your cf handle.
 
-#Language Codes
+## Language Codes
 
 |Language          |Language code|
 |------------------|-------------|
@@ -37,11 +37,11 @@ Replace "YourHandle" in checker.py with your cf handle.
 |python 2.7.12     |            7|
 |python 3.5.2      |           31|
 
-#Dependencies
+## Dependencies
 
 You need to have python with beautiful soup and requests library installed.
 
-#Usage 
+## Usage 
 
 To submit a code for a specific cf problem use 
 
@@ -53,12 +53,12 @@ To see your last verdict use
 
 `:LastVerdict`
 
-#Issues 
+## Issues 
 
 If you find any problems or bug with my plugin please email me at iamayushanand@gmail.com 
 or open an issue on github page.
 
-#Self Promition
+## Self Promition
 
 If you like this plugin then follow me on github ;).
 
